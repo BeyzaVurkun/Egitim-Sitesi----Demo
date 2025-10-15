@@ -1,4 +1,4 @@
-# Eğitim Platformu (Demo)
+# Eğitim Sitesi (Demo)
 
 Bu proje, **HTML ve CSS ile geliştirilmiş bir eğitim platformu demo sitesidir**. Site, kullanıcıların eğitim içeriklerini keşfetmesini ve görsel olarak deneyimlemesini amaçlar.
 
