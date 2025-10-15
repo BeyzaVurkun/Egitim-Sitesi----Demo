@@ -42,7 +42,7 @@ Bu proje, **HTML ve CSS ile geliştirilmiş bir eğitim platformu demo sitesidir
 - Telif hakkı ve site adı yer alır:  
   *“© 2025 Eğitim Platformu. Tüm Hakları Gizlidir.”*
 
-### Teknolojiler
+## Teknolojiler
 - HTML5
 - CSS3
 
